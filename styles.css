@@ -453,3 +453,6 @@ ul { list-style: none; }
   font-style: italic;
   color: var(--ink-soft);
 }
+.label + .label {
+  margin-left: 6px;
+}
